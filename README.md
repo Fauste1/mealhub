@@ -1,4 +1,10 @@
 # mealhub
+The ultimate app for recipes storage, meal planning & related shopping.
+
+Phase 1 is focused on the recipes storage feature:
+- add & import your favourite recipes
+- sort through your recipes via filters
+- pick the best meals & get to cooking!
 
 ## Project setup
 ```
